@@ -1,0 +1,17 @@
+{
+    "name": "victor/proper_plugin",
+    "description": "Proper template for wordpress plugins.",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Victor Willhuber",
+            "email": "victorwillhuber@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
