@@ -1,2 +1,2 @@
 <?php
-echo 'Algo';
+echo 'Template admin loaded';
